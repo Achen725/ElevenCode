@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ The\ main\ method\ in\ this\ class\ checks\ the\ Deck\ operations\ for\ consistency\n\ using\ assert\ statements.\n\t@param\ args\ is\ not\ used.\n
+comment1.params=
+comment1.target=void\ test1CardDeck()
+comment1.text=\n\ Create\ a\ 1-card\ Deck\ and\ test\ the\ Deck\ methods\ with\ it.\n
+comment2.params=
+comment2.target=void\ test2CardDeck()
+comment2.text=\n\ Create\ a\ 2-card\ Deck\ and\ test\ the\ Deck\ methods\ with\ it.\n
+comment3.params=d
+comment3.target=void\ testEmpty(Deck)
+comment3.text=\n\ Check\ that\ the\ given\ deck\ is\ empty.\n\ @param\ d\ is\ a\ deck\ that\ should\ be\ empty.\n
+comment4.params=d\ intended
+comment4.target=void\ testOneCard(Deck,\ Card)
+comment4.text=\n\ Check\ that\ the\ given\ deck\ contains\ the\ given\ card\ and\ nothing\ else.\n\ @param\ d\ is\ a\ deck\ that\ should\ contain\ a\ single\ card.\n\ @param\ intended\ is\ the\ card\ that\ the\ one-card\ deck\ should\ contain.\n
+comment5.params=
+comment5.target=void\ testShuffle()
+comment5.text=\n\ Check\ that\ two\ decks\ constructed\ in\ succession\ aren't\ the\ same.\n
+numComments=6
