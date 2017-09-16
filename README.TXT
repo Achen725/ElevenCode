@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE:Elevens
+PURPOSE OF PROJECT: CS Lab 
+VERSION or DATE: 
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS:ANDY
+USER INSTRUCTIONS: Match as many pairs that add to eleven or a triplet of J,Q, and K. 
